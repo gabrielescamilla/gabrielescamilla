@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Erlang/Elixir
+- 📫 How to reach me: chivygab@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I'm from México but I don't like soccer.
+
 <!--
 **gabrielescamilla/gabrielescamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
