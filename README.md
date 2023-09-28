@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Erlang/Elixir
+- 🌱 I’m currently working with Python 
 - 📫 How to reach me: chivygab@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm from México but I don't like soccer.
